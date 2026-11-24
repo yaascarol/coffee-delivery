@@ -5,3 +5,7 @@ dist/
 *.local
 *.zip
 .DS_Store
+test-results/
+playwright-report/
+*.tsbuildinfo
+site-artifact.tar.gz
