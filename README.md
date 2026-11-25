@@ -2,6 +2,8 @@
 
 SPA de uma cafeteria fictícia desenvolvida com **React, Vite e TypeScript** para a disciplina Single Page Application. Escolha seus cafés, monte o carrinho, informe a entrega e confirme um pedido de demonstração.
 
+**[Acesse a aplicação no Render](https://coffee-delivery-1ckq.onrender.com/)**
+
 ![Home do Coffee Delivery](docs/screenshots/home-desktop.png)
 
 ## Executar localmente
@@ -87,7 +89,9 @@ Os testes E2E usam Microsoft Edge instalado no Windows. Em outro sistema, execut
 
 Build estático em `dist`. Vercel: comando `npm run build`, diretório de saída `dist`; o `vercel.json` fornece fallback de rotas. Netlify: mesmo build e diretório, com `public/_redirects`. Configuração adicional de Sites em `.openai/hosting.json`.
 
-Repositório público: [yaascarol/coffee-delivery](https://github.com/yaascarol/coffee-delivery). Publicação da aplicação em andamento; o link será registrado após verificação.
+Aplicação no Render: [Coffee Delivery](https://coffee-delivery-1ckq.onrender.com/).
+
+Repositório público: [yaascarol/coffee-delivery](https://github.com/yaascarol/coffee-delivery).
 
 ## Referências
 

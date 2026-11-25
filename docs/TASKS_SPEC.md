@@ -18,6 +18,7 @@ Status: `[x]` concluído com verificação registrada; `[ ]` pendente/em andamen
 | [ ] | T12 | Repositório e deploy | Git, configuração de hospedagem | URL pública, rotas diretas e repositório verificados. |
 
 ## Registro
+- 2026-11-24: link do Render informado pela aluna adicionado ao início do README e à seção Publicação; alteração documental conferida por diff.
 - 2026-11-24: recebidos enunciado completo, Style Guide e AGENTS da aluna. Especificações criadas; base existente tem configuração, catálogo, reducer, schema e Context em preparação. Implementação e validação seguem por etapas.
 
 - 2026-11-24: T02–T11 concluídas. Build aprovado; 12 testes unitários e 3 E2E passaram. Nove screenshots gerados. Consulta real de CEP respondeu corretamente; AGENTS idêntico ao original por hash. Evidências detalhadas em VALIDATION.md.
